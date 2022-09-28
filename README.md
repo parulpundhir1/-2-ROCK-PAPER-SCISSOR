@@ -1,0 +1,2 @@
+# -2-ROCK-PAPER-SCISSOR
+ROCK PAPER SCISSOR game program
